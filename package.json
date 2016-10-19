@@ -1,0 +1,43 @@
+{
+  "name": "tfk-saksbehandling-organisasjon-tilskudd-templates",
+  "version": "1.0.0",
+  "description": "Templates for the tfk-saksbehandling-organisasjon-tilskudd ecosystem",
+  "license": "MIT",
+  "author": {
+    "name": "Geir Gåsodden",
+    "email": "geir.gasodden@pythonia.no",
+    "url": "https://github.com/zrrrzzt"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.6.0"
+  },
+  "scripts": {
+    "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
+    "coverage": "tap test/**/*.js --coverage",
+    "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
+    "setup": "npm install && node setup.js"
+  },
+  "keywords": [
+    "Tfk",
+    "Telemark fylkeskommune",
+    "Saksbehandling",
+    "Tilskudd",
+    "Organisasjoner",
+    "Maler"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/telemark/tfk-saksbehandling-organisasjon-tilskudd-templates.git"
+  },
+  "bugs": {
+    "url": "http://github.com/telemark/tfk-saksbehandling-organisasjon-tilskudd-templates/issues"
+  },
+  "devDependencies": {
+    "coveralls": "2.11.12",
+    "is-file": "1.0.0",
+    "nsp": "2.6.1",
+    "standard": "7.1.2",
+    "tap": "6.3.2"
+  }
+}
