@@ -9,4 +9,6 @@ tap.ok(templates['mottatt-folkehelse'], 'There is a template for mottatt-folkehe
 
 tap.ok(templates['mottatt-kultur'], 'There is a template for mottatt-kultur')
 
+tap.ok(templates['mottatt-idrett'], 'There is a template for mottatt-idrett')
+
 tap.ok(templates['soknad'], 'There is a template for soknad')
