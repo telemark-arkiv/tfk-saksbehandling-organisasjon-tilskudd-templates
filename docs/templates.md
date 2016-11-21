@@ -16,8 +16,7 @@ Koder som benyttes:
 - ```{poststed}``` Søkerens poststed
 - ```{datoSoknad}``` Dato for søknad på formatet dd.mm.åååå
 - ```{dato}``` Dagens dato på formatet dd.mm.åååå
-- ```{skolear}``` Hvilket skoleår vedtaket gjelder på formatet åååå/åååå
-- ```{navnSkole}``` Navn på skolen man søker skyss til
+- ```{saksnummer}``` Saksnummer for samlesak
 - ```{sammendrag}``` Sammendrag av søknaden
 
 ## Mottatt folkehelse
@@ -31,7 +30,7 @@ Koder som benyttes:
 - ```{poststed}``` Søkerens poststed
 - ```{datoSoknad}``` Dato for søknad på formatet dd.mm.åååå
 - ```{dato}``` Dagens dato på formatet dd.mm.åååå
-- ```{skolear}``` Hvilket skoleår vedtaket gjelder på formatet åååå/åååå
+- ```{saksnummer}``` Saksnummer for samlesak
 - ```{sammendrag}``` Sammendrag av søknaden
 
 
