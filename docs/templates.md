@@ -17,6 +17,9 @@ Koder som benyttes:
 - ```{datoSoknad}``` Dato for søknad på formatet dd.mm.åååå
 - ```{dato}``` Dagens dato på formatet dd.mm.åååå
 - ```{saksnummer}``` Saksnummer for samlesak
+- ```{saksbehandlerNavn}``` Navn på saksbehandler
+- ```{saksbehandlerTlf}``` Telefonnummer på saksbehandler
+- ```{saksbehandlerEpost}``` E-post til saksbehandleren 
 - ```{sammendrag}``` Sammendrag av søknaden
 
 ## Mottatt folkehelse
@@ -31,6 +34,9 @@ Koder som benyttes:
 - ```{datoSoknad}``` Dato for søknad på formatet dd.mm.åååå
 - ```{dato}``` Dagens dato på formatet dd.mm.åååå
 - ```{saksnummer}``` Saksnummer for samlesak
+- ```{saksbehandlerNavn}``` Navn på saksbehandler
+- ```{saksbehandlerTlf}``` Telefonnummer på saksbehandler
+- ```{saksbehandlerEpost}``` E-post til saksbehandleren 
 - ```{sammendrag}``` Sammendrag av søknaden
 
 
