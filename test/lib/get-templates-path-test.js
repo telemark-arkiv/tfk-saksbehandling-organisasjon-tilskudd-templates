@@ -27,5 +27,3 @@ tap.equal(isFile(getTemplatePath('soknad')), true, 'Template for soknad is a fil
 tap.equal(isFile(getTemplatePath('mottatt-kultur')), true, 'Template for mottatt.kultur is a file')
 
 tap.equal(isFile(getTemplatePath('mottatt-folkehelse')), true, 'Template for mottatt.folkehelse is a file')
-
-tap.equal(isFile(getTemplatePath('mottatt-idrett')), true, 'Template for mottatt.idrett is a file')
