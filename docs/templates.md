@@ -18,7 +18,7 @@ Koder som benyttes:
 - ```{dato}``` Dagens dato på formatet dd.mm.åååå
 - ```{saksnummer}``` Saksnummer for samlesak
 - ```{aar}``` År søknaden gjelder for
-- ```{moeteDato}``` Dato søknaden behandles i utvalg
+- ```{moetedato}``` Dato søknaden behandles i utvalg
 - ```{saksbehandlerTittel}``` Tittel for saksbehandler
 - ```{saksbehandlerNavn}``` Navn på saksbehandler
 - ```{saksbehandlerTelefon}``` Telefonnummer på saksbehandler
@@ -38,7 +38,7 @@ Koder som benyttes:
 - ```{dato}``` Dagens dato på formatet dd.mm.åååå
 - ```{saksnummer}``` Saksnummer for samlesak
 - ```{aar}``` År søknaden gjelder for
-- ```{moeteDato}``` Dato søknaden behandles i utvalg
+- ```{moetedato}``` Dato søknaden behandles i utvalg
 - ```{saksbehandlerTittel}``` Tittel for saksbehandler
 - ```{saksbehandlerNavn}``` Navn på saksbehandler
 - ```{saksbehandlerTelefon}``` Telefonnummer på saksbehandler
