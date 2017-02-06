@@ -2,6 +2,8 @@
 [![Coverage Status](https://coveralls.io/repos/telemark/tfk-saksbehandling-organisasjon-tilskudd-templates/badge.svg?branch=master&service=github)](https://coveralls.io/github/telemark/tfk-saksbehandling-organisasjon-tilskudd-templates?branch=master)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # tfk-saksbehandling-organisasjon-tilskudd-templates
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-saksbehandling-organisasjon-tilskudd-templates.svg)](https://greenkeeper.io/)
 Templates for tilskudd
 
 Oversikt over alle malene og koder for de ulike ligger [her](docs/templates.md)
