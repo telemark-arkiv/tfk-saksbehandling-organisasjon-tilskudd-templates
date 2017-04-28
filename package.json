@@ -35,7 +35,7 @@
     "url": "http://github.com/telemark/tfk-saksbehandling-organisasjon-tilskudd-templates/issues"
   },
   "devDependencies": {
-    "coveralls": "2.12.0",
+    "coveralls": "2.13.1",
     "is-file": "1.0.0",
     "nsp": "2.6.3",
     "standard": "10.0.2",
