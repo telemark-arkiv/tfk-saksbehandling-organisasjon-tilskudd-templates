@@ -1,6 +1,6 @@
 {
   "name": "tfk-saksbehandling-organisasjon-tilskudd-templates",
-  "version": "1.1.17",
+  "version": "1.1.18",
   "description": "Templates for the tfk-saksbehandling-organisasjon-tilskudd ecosystem",
   "license": "MIT",
   "author": {
@@ -39,6 +39,6 @@
     "is-file": "1.0.0",
     "nsp": "2.6.3",
     "standard": "10.0.2",
-    "tap": "10.4.0"
+    "tap": "10.3.3"
   }
 }
