@@ -1,6 +1,6 @@
 {
   "name": "tfk-saksbehandling-organisasjon-tilskudd-templates",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Templates for the tfk-saksbehandling-organisasjon-tilskudd ecosystem",
   "license": "MIT",
   "author": {
@@ -10,7 +10,7 @@
   },
   "main": "index.js",
   "engines": {
-    "node": ">=4.8.4"
+    "node": ">=8.7.0"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
@@ -29,11 +29,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/telemark/tfk-saksbehandling-organisasjon-tilskudd-templates.git"
+    "url": "git+https://github.com/telemark/tfk-saksbehandling-organisasjon-tilskudd-templates.git"
   },
   "bugs": {
-    "url": "http://github.com/telemark/tfk-saksbehandling-organisasjon-tilskudd-templates/issues"
+    "url": "https://github.com/telemark/tfk-saksbehandling-organisasjon-tilskudd-templates/issues"
   },
+  "homepage": "https://github.com/telemark/tfk-saksbehandling-organisasjon-tilskudd-templates",
   "devDependencies": {
     "coveralls": "3.0.0",
     "is-file": "1.0.0",
